@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --neon-green: #00ff00;
+}
+
+.text-neon-green {
+  color: var(--neon-green);
+}
+
+.bg-neon-green {
+  background-color: var(--neon-green);
+}
+
+.border-neon-green {
+  border-color: var(--neon-green);
+}
+
+.focus\:ring-neon-green:focus {
+  --tw-ring-color: var(--neon-green);
+}
+
+.glow {
+  box-shadow: 0 0 10px var(--neon-green), 0 0 20px var(--neon-green), 0 0 30px var(--neon-green);
+}
