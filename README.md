@@ -67,7 +67,7 @@ Blending technology with imagination, this project was inspired by sci-fi themes
 
 ## 📬 Feedback
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/irfansulfi11) or fork and improve the repo!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/irfansulfi11/) or fork and improve the repo!
 
 ---
 
